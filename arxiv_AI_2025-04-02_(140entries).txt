@@ -1,0 +1,141 @@
+AI Judges in Design: Statistical Perspectives on Achieving Human Expert Equivalence With Vision-Language Models
+Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning
+Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents
+Investigating Large Language Models in Diagnosing Students' Cognitive Skills in Math Problem-solving
+Example-Based Concept Analysis Framework for Deep Weather Forecast Models
+Explainable AI-Based Interface System for Weather Forecasting Model
+Do We Truly Need So Many Samples? Multi-LLM Repeated Sampling Efficiently Scale Test-Time Compute
+Personality-Driven Decision-Making in LLM-Based Autonomous Agents
+Towards Responsible and Trustworthy Educational Data Mining: Comparing Symbolic, Sub-Symbolic, and Neural-Symbolic AI Methods
+LLM-Guided Search for Deletion-Correcting Codes
+Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?
+Hawkeye:Efficient Reasoning with Model Collaboration
+CyberBOT: Towards Reliable Cybersecurity Education via Ontology-Grounded Retrieval Augmented Generation
+Collaborative LLM Numerical Reasoning with Local Data Protection
+Exploration and Adaptation in Non-Stationary Tasks with Diffusion Policies
+Rack Position Optimization in Large-Scale Heterogeneous Data Centers
+Large Language Models in Numberland: A Quick Test of Their Numerical Reasoning Abilities
+LLMs for Explainable AI: A Comprehensive Survey
+The Axiom-Based Atlas: A Structural Mapping of Theorems via Foundational Proof Vectors
+GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors
+IntrinsiX: High-Quality PBR Generation using Image Priors
+When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning
+Token embeddings violate the manifold hypothesis
+Zero-shot Benchmarking: A Framework for Flexible and Scalable Automatic Evaluation of Language Models
+MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization
+MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs
+Accelerating drug discovery with Artificial: a whole-lab orchestration and scheduling system for self-driving labs
+WorldScore: A Unified Evaluation Benchmark for World Generation
+Resource Allocation for RIS-Assisted CoMP-NOMA Networks using Reinforcement Learning
+SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching
+HDVIO2.0: Wind and Disturbance Estimation with Hybrid Dynamics VIO
+Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems
+Unfair Learning: GenAI Exceptionalism and Copyright Law
+IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval
+Personalized Federated Training of Diffusion Models with Privacy Guarantees
+QSViT: A Methodology for Quantizing Spiking Vision Transformers
+Graph Classification and Radiomics Signature for Identification of Tuberculous Meningitis
+Role and Use of Race in AI/ML Models Related to Health
+Spectral Architecture Search for Neural Networks
+Improved Visual-Spatial Reasoning via R1-Zero-Like Training
+CrackSQL: A Hybrid SQL Dialect Translation System Powered by Large Language Models
+m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models
+Investigating the Capabilities and Limitations of Machine Learning for Identifying Bias in English Language Data with Information and Heritage Professionals
+Exploring Personalized Federated Learning Architectures for Violence Detection in Surveillance Videos
+ReaLitE: Enrichment of Relation Embeddings in Knowledge Graphs using Numeric Literals
+Global Intervention and Distillation for Federated Out-of-Distribution Generalization
+Context-Aware Human Behavior Prediction Using Multimodal Large Language Models: Challenges and Insights
+A Survey on Music Generation from Single-Modal, Cross-Modal, and Multi-Modal Perspectives: Data, Methods, and Challenges
+Conditional Temporal Neural Processes with Covariance Loss
+Digitally Supported Analysis of Spontaneous Speech (DigiSpon): Benchmarking NLP-Supported Language Sample Analysis of Swiss Children's Speech
+LLMs4SchemaDiscovery: A Human-in-the-Loop Workflow for Scientific Schema Mining with Large Language Models
+Advancements in Multimodal Differential Evolution: A Comprehensive Review and Future Perspectives
+Science Autonomy using Machine Learning for Astrobiology
+Energy Weighted Learning Progress Guided Interleaved Multi-Task Learning
+Command A: An Enterprise-Ready Large Language Model
+The HCI GenAI CO2ST Calculator: A Tool for Calculating the Carbon Footprint of Generative AI Use in Human-Computer Interaction Research
+DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism
+Towards Adaptive AI Governance: Comparative Insights from the U.S., EU, and Asia
+Impact of Data Duplication on Deep Neural Network-Based Image Classifiers: Robust vs. Standard Models
+CNOT-Optimal Clifford Synthesis as SAT
+Feature Subset Weighting for Distance-based Supervised Learning through Choquet Integration
+PLM4NDV: Minimizing Data Access for Number of Distinct Values Estimation with Pre-trained Language Models
+Data Cleansing for GANs
+On the Consistency of Multilingual Context Utilization in Retrieval-Augmented Generation
+Enhancing Negation Awareness in Universal Text Embeddings: A Data-efficient and Computational-efficient Approach
+High-Quality Pseudo-Label Generation Based on Visual Prompt Assisted Cloud Model Update
+Automated detection of atomicity violations in large-scale systems
+Training Frozen Feature Pyramid DINOv2 for Eyelid Measurements with Infinite Encoding and Orthogonal Regularization
+Operator Learning with Domain Decomposition for Geometry Generalization in PDE Solving
+Enhancing stroke disease classification through machine learning models via a novel voting system by feature selection techniques
+Memorizing is Not Enough: Deep Knowledge Injection Through Reasoning
+Learning-Based Approximate Nonlinear Model Predictive Control Motion Cueing
+MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning
+Distilling Multi-view Diffusion Models into 3D Generators
+No Free Lunch with Guardrails
+Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation
+LLM-Assisted Proactive Threat Intelligence for Automated Reasoning
+Multimodal LLMs for OCR, OCR Post-Correction, and Named Entity Recognition in Historical Documents
+Semantic Mastery: Enhancing LLMs with Advanced Natural Language Understanding
+From Intuition to Understanding: Using AI Peers to Overcome Physics Misconceptions
+VerifiAgent: a Unified Verification Agent in Language Model Reasoning
+Beyond Wide-Angle Images: Unsupervised Video Portrait Correction via Spatiotemporal Diffusion Adaptation
+When Persuasion Overrides Truth in Multi-Agent LLM Debates: Introducing a Confidence-Weighted Persuasion Override Rate (CW-POR)
+Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation
+Integrated LLM-Based Intrusion Detection with Secure Slicing xApp for Securing O-RAN-Enabled Wireless Network Deployments
+VNJPTranslate: A comprehensive pipeline for Vietnamese-Japanese translation
+Agentic Multimodal AI for Hyperpersonalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework
+SeizureTransformer: Scaling U-Net with Transformer for Simultaneous Time-Step Level Seizure Detection from Long EEG Recordings
+Detecting and Mitigating Bias in LLMs through Knowledge Graph-Augmented Training
+FedPaI: Achieving Extreme Sparsity in Federated Learning via Pruning at Initialization
+Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead
+Do Chinese models speak Chinese languages?
+Digital Twins in Biopharmaceutical Manufacturing: Review and Perspective on Human-Machine Collaborative Intelligence
+SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers
+ElaLoRA: Elastic & Learnable Low-Rank Adaptation for Efficient Model Fine-Tuning
+MultiMorph: On-demand Atlas Construction
+Synthesizing Public Opinions with LLMs: Role Creation, Impacts, and the Future to eDemorcacy
+GazeLLM: Multimodal LLMs incorporating Human Visual Attention
+Can Diffusion Models Disentangle? A Theoretical Perspective
+Agents Under Siege
+: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks
+RailGoerl24: Görlitz Rail Test Center CV Dataset 2024
+Identifying Sparsely Active Circuits Through Local Loss Landscape Decomposition
+Are Domain Generalization Benchmarks with Accuracy on the Line Misspecified?
+Contradiction Detection in RAG Systems: Evaluating LLMs as Context Validators for Improved Information Consistency
+Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier
+MetaCLBench: Meta Continual Learning Benchmark on Resource-Constrained Edge Devices
+Backdoor Detection through Replicated Execution of Outsourced Training
+Does "Reasoning" with Large Language Models Improve Recognizing, Generating, and Reframing Unhelpful Thoughts?
+Towards Precise Action Spotting: Addressing Temporal Misalignment in Labels with Dynamic Label Assignment
+Lorentzian Graph Isomorphic Network
+Data-driven Power Loss Identification through Physics-Based Thermal Model Backpropagation
+Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting
+Assessing Code Understanding in LLMs
+Evaluating the Feasibility and Accuracy of Large Language Models for Medical History-Taking in Obstetrics and Gynecology
+CF-CAM: Gradient Perturbation Mitigation and Feature Stabilization for Reliable Interpretability
+GAL-MAD: Towards Explainable Anomaly Detection in Microservice Applications Using Graph Attention Networks
+Integrating Large Language Models with Human Expertise for Disease Detection in Electronic Health Records
+The Cursive Transformer
+JudgeLRM: Large Reasoning Models as a Judge
+Distill-C: Enhanced NL2SQL via Distilled Customization with LLMs
+EAP4EMSIG -- Enhancing Event-Driven Microscopy for Microfluidic Single-Cell Analysis
+Multi-Stakeholder Disaster Insights from Social Media Using Large Language Models
+CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation
+Quantum Methods for Managing Ambiguity in Natural Language Processing
+Revisiting the Relationship between Adversarial and Clean Training: Why Clean Training Can Make Adversarial Training Better
+ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models
+Improving Diseases Predictions Utilizing External Bio-Banks
+MiZero: The Shadowy Defender Against Text Style Infringements
+Leaking LoRa: An Evaluation of Password Leaks and Knowledge Storage in Large Language Models
+Token-Driven GammaTune: Adaptive Calibration for Enchanced Speculative Decoding
+Generating Structured Plan Representation of Procedures with LLMs
+Opioid Named Entity Recognition (ONER-2025) from Reddit
+Diffusion models applied to skin and oral cancer classification
+A multi-locus predictiveness curve and its summary assessment for genetic risk prediction
+Celler:A Genomic Language Model for Long-Tailed Single-Cell Annotation
+ObscuraCoder: Powering Efficient Code LM Pre-Training Via Obfuscation Grounding
+Enhance Vision-based Tactile Sensors via Dynamic Illumination and Image Fusion
+Deep Learning-Based Hypoglycemia Classification Across Multiple Prediction Horizons
+Tensor Generalized Approximate Message Passing
+Are We There Yet? A Measurement Study of Efficiency for LLM Applications on Mobile Devices
