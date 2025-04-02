@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Chrome data directory
+chrome_data/
+*.log
+
+# Crawled data
+arxiv_AI_*.txt
