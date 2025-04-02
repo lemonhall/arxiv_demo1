@@ -1,0 +1,20 @@
+Server started at 2025-04-02 14:59:13
+Script directory: E:\development\arxiv_demo1
+Current working directory: D:\Program Files\Cherry Studio
+[2025-04-02 14:59:39] Current working directory: D:\Program Files\Cherry Studio
+[2025-04-02 14:59:39] Script directory: E:\development\arxiv_demo1
+[2025-04-02 14:59:39] Found files: ['E:\\development\\arxiv_demo1\\arxiv_AI_2025-04-02_(140entries).txt']
+[2025-04-02 14:59:39] Selected latest file: E:\development\arxiv_demo1\arxiv_AI_2025-04-02_(140entries).txt
+[2025-04-02 14:59:39] Extracted date: 2025-04-02, entries: 140
+[2025-04-02 14:59:39] Is current: True (today: 2025-04-02, file_date: 2025-04-02)
+[2025-04-02 14:59:40] Looking for today's file directly: E:\development\arxiv_demo1\arxiv_AI_2025-04-02_(140entries).txt
+[2025-04-02 14:59:40] Found today's file: E:\development\arxiv_demo1\arxiv_AI_2025-04-02_(140entries).txt
+[2025-04-02 14:59:40] Selected latest file for reading: E:\development\arxiv_demo1\arxiv_AI_2025-04-02_(140entries).txt
+[2025-04-02 14:59:40] Extracted date: 2025-04-02, entries: 140
+[2025-04-02 14:59:40] Read 141 titles from file
+[2025-04-02 15:00:33] Current working directory: D:\Program Files\Cherry Studio
+[2025-04-02 15:00:33] Script directory: E:\development\arxiv_demo1
+[2025-04-02 15:00:33] Found files: ['E:\\development\\arxiv_demo1\\arxiv_AI_2025-04-02_(140entries).txt']
+[2025-04-02 15:00:33] Selected latest file: E:\development\arxiv_demo1\arxiv_AI_2025-04-02_(140entries).txt
+[2025-04-02 15:00:33] Extracted date: 2025-04-02, entries: 140
+[2025-04-02 15:00:33] Is current: True (today: 2025-04-02, file_date: 2025-04-02)
